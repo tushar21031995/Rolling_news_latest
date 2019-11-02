@@ -1,0 +1,24 @@
+[12-Aug-2019 05:49:44 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[12-Aug-2019 05:49:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[12-Aug-2019 05:53:18 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[12-Aug-2019 05:53:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[12-Aug-2019 06:02:18 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[12-Aug-2019 06:02:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[03-Sep-2019 04:49:23 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[03-Sep-2019 04:49:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[03-Sep-2019 04:53:57 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[03-Sep-2019 04:53:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 461
+[05-Oct-2019 08:29:16 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[05-Oct-2019 08:29:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[05-Oct-2019 11:38:34 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[05-Oct-2019 11:38:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 07:28:53 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 07:28:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 07:39:42 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 07:39:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 07:39:55 UTC] PHP Notice:  Undefined variable: con in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 07:39:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/vlvvan70f093/public_html/rollingnews.in/index.php on line 476
+[07-Oct-2019 10:49:08 UTC] PHP Notice:  Undefined index: uname in /home/vlvvan70f093/public_html/rollingnews.in/mail_handler.php on line 3
+[07-Oct-2019 10:49:08 UTC] PHP Notice:  Undefined index: number in /home/vlvvan70f093/public_html/rollingnews.in/mail_handler.php on line 5
+[07-Oct-2019 10:49:08 UTC] PHP Notice:  Undefined index: req in /home/vlvvan70f093/public_html/rollingnews.in/mail_handler.php on line 6
+[07-Oct-2019 10:49:09 UTC] PHP Notice:  Undefined variable: name in /home/vlvvan70f093/public_html/rollingnews.in/mail_handler.php on line 14
